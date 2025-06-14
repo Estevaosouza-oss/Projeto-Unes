@@ -4,7 +4,7 @@
 <img src="https://skillicons.dev/icons?i=html">
 
 ## Projeto:
-![Projeto-Unes-Exemplo](imagens/Projeto-Unes.png)
+<img src="imagens/foto.jpg"/>
 
 ### Sobre o Projeto:
 Projeto Feito com Intuito de treinar e aprender HTML.
