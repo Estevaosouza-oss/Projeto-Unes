@@ -4,7 +4,7 @@
 <img src="https://skillicons.dev/icons?i=html">
 
 ## Projeto:
-<img src="https://github.com/Estevaosouza-oss/Projeto_Unes/blob/main/Imagens/Projeto_Unes.png" alt="Imagem exemplo Projeto Unes" width="500"/>
+<img src="Imagens/Projeto_Unes.png" alt="Imagem exemplo Projeto Unes" width="500"/>
 
 ### Sobre o Projeto:
 Projeto Feito com Intuito de treinar e aprender HTML.
